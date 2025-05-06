@@ -1,0 +1,3 @@
+# .streamlit/config.toml
+[server]
+maxUploadSize = 3076      # value is in megabytes → 1024 MB = 1 GB
