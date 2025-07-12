@@ -24,3 +24,10 @@ Run retrain_all.py
 
 # 3. Launch the GUI
 streamlit run src/app.py in terminal
+
+This Streamlit UI displays the output of my AI email classification system. It loads Enron data, applies both rule-based and ML models to label each email by category and priority, and enables real-time filtering.
+
+Tech used: Python, scikit-learn, pandas, Streamlit
+Key features: Bulk CSV upload, dynamic filtering, ML + rule hybrid logic, and live result rendering.
+
+![Dissertation Screenshot](test/disso.png)
