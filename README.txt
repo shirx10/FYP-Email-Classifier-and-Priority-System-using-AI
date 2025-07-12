@@ -35,5 +35,5 @@ This Streamlit UI displays the output of my AI email classification system. It l
 
 ### Screenshot
 
-![App UI](Images/disso.png)
+![App UI](images/disso.png)
 
