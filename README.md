@@ -11,15 +11,16 @@ Place both files in the `data/` directory before running `retrain_all.py`
 
 ## Windows Setup Instructions
 
-## 1. Clone and install dependencies
+### 1. Clone and install dependencies
 
-
-
+```bat
 git clone <your-repo-url>
 cd your-repo-name
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
+```
+
 
 ## 2. Re‑train everything (models, charts, error sample)
 Run retrain_all.py
